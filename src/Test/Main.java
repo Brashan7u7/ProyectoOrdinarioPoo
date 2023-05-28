@@ -1,10 +1,10 @@
 package Test;
 
-import InterfazG.Interfaz;
+import InterfazG.Logueo;
 
 public class Main {
     public static void main(String[] args) {
-        Interfaz i1= new Interfaz();
-        i1.setVisible(true);
+        Logueo i1= new Logueo();
+
     }
 }
